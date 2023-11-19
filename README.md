@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexandergp1
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML5, CCS3, Javascript, PHP.
+- 🌱 I’m currently learning HTML5, CCS3, Arduino IDE.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me! Email: alexgp032@gmail.com
 
